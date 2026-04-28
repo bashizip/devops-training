@@ -1,3 +1,4 @@
 ## Devops Training
 
-Ceci est un repos pour le training devops/sre
+Ceci est un repos pour le les examples dans le cadre du training devops/sre. 
+
